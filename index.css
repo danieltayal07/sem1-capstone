@@ -9,6 +9,9 @@
   }
   body{
     background-color: #f5f5ef;
+    font-family: 'Syne', sans-serif;
+    font-family: 'Cutive', serif;
+    font-family: 'Kumbh Sans', sans-serif;
   }
   .portfolio-container {
     display: flex;
