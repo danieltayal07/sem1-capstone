@@ -9,9 +9,6 @@
   }
   body{
     background-color: #f5f5ef;
-    font-family: 'Syne', sans-serif;
-    font-family: 'Cutive', serif;
-    font-family: 'Kumbh Sans', sans-serif;
   }
   .portfolio-container {
     display: flex;
@@ -28,6 +25,7 @@
     justify-content: space-between;
     flex-wrap: wrap;
     padding: 16px 0;
+    border-bottom: black;
   }
   
   .logo {
@@ -48,7 +46,7 @@
     gap: 32px;
     letter-spacing: -0.28px;
     font: 400 28px/1 Cutive, sans-serif;
-    color: #1d221b;;
+    color: #1d221b;
   }
   .nav-link{
     text-decoration: none;
@@ -96,10 +94,10 @@
   
   .king-title {
     color: #1d221b;
-    letter-spacing: -2.4px;
+    letter-spacing: -2%;
     text-align: center;
-    z-index: 1;
-    font: 400 120px/120px Cutive, sans-serif;
+
+    font: 400 140px/140px Cutive, sans-serif;
   }
   
   .king-image-wrapper {
@@ -161,6 +159,7 @@
     color: #1d221b;
     font-size: 20px;
     line-height: 1.2;
+    font: 500 20px/22px Kumbh Sans, sans-serif;
   }
   
   .project-category {
@@ -189,9 +188,8 @@
   .about-title2 {
     background-color: #f5f5ef;
     width: 50%;
-    overflow: hidden;
     color: #1d221b;
-    font-size: 68px;
+    font: 400 68px/1 Cutive, sans-serif;
   }
 
   .queen-image {
