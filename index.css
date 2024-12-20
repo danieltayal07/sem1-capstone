@@ -58,6 +58,18 @@
     font: 400 28px/1 Cutive, sans-serif;
     color: #1d221b;
   }
+  .nav-links #homee:hover {
+    transform: scale(1.1);
+  }
+  .nav-links #abouts:hover {
+    transform: scale(1.1);
+  }
+  .nav-links #contactss:hover {
+    transform: scale(1.1);
+  }
+  .nav-links #projectss:hover {
+    transform: scale(1.1);
+  }
   .nav-link{
     text-decoration: none;
     color:black
